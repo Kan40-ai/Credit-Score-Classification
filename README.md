@@ -18,7 +18,7 @@ The dataset contains 1 lakh records with 28 features. There is an inherent chron
 
 4.MACHINE LEARNING MODEL
 
-We've leveraged and fit non-linear complex models - Decision Trees & Random Forest as the three predictor classes are not linearly seperable and we've converged on a best random forest model with parameters {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 100} that has the following evaluation metrics score:
+We've leveraged and fit non-linear complex models - Decision Trees & Random Forest as the three target classes are not linearly seperable and we've converged on a best random forest model with parameters {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 100} that has the following evaluation metrics score:
 
 ('Accuracy:', 0.7725232882300945)
 Precision: 0.7568671127602743
